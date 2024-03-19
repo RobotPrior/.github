@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For wide-scale uptake, RobotPrior will integrate all algorithms in the Core Model, which will be an open-source software package based on ROS2, to be released with yearly updates through an AI on Demand catalogue. For maximal development speed, inside as well as outside the consortium, we will accompany the core model with an open-source prototyping testbed (a small mobile manipulator), simulation environments of varying complexity/fidelity, tutorials, and documentation.
